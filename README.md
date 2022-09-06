@@ -16,6 +16,8 @@ Simple minesweeper in Python using Pygame
 
 ## Preview
 
-![First screenshot](1.png)
-![Second screenshot](2.png)
-![Third screenshot](2.png)
+![First screenshot](Screenshots/1.png)
+
+![Second screenshot](Screenshots/2.png)
+
+![Third screenshot](Screenshots/2.png)
