@@ -13,3 +13,9 @@ Simple minesweeper in Python using Pygame
 ```bash
  py minesweeper.py
  ```
+
+## Preview
+
+![First screenshot](1.png)
+![Second screenshot](2.png)
+![Third screenshot](2.png)
